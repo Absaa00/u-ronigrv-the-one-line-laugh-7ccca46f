@@ -1,0 +1,10 @@
+# One-Line Laugh build ignores — local run artefacts only
+output/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.laugh-draft-notes.txt
+.DS_Store
+Thumbs.db
+*.log
